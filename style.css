@@ -1,0 +1,407 @@
+body{
+    margin: 0;
+    font-family: sans-serif;
+}
+h1{
+    margin: 0;
+}
+.header{
+    display: flex;
+    width: 100%;
+    height: 127px;
+    background-color: white;
+}
+.head1{
+    width: 50%;
+    height: 127px;
+    background-color: white;
+    display: flex;
+    justify-content: center;
+    
+   
+}.head2{
+    width: 37%;
+    height: 127px;
+    background-color: white;
+    
+}
+    
+.img1{
+    position: absolute;
+    top: 10px;
+    width: 370px;
+    height: 108px;
+}
+.head03{
+    position: absolute;
+    top: 22px;
+    left: 66%;
+}
+.head03 button{
+    border: 0cm;
+    width: 103px;
+    height: 26px;
+    border-radius: 4px;
+    background-color: #1b6d85;
+    color: white;
+    
+}
+.head04{
+    position: absolute;
+    left: 69%;
+    top: 54px;
+    background-color: white;
+    width: 263px;
+}
+.head04 span{
+    font-size: 12px;
+    color: rgb(129, 156, 238);
+
+}
+.head05{
+    position: absolute;
+    left: 65%;
+    top: 81px;
+    background-color: white;
+    width: 344px;
+}
+.head05 span{
+   font-size: 12px;
+   color: rgb(47, 96, 152);
+}
+.nav{
+    width: 100%;
+    height: 50px;
+    background-color: rgb(50, 121, 185);
+}
+.tz{
+    position: absolute;
+    margin-top: 15px;
+    left: 190px;
+}
+.tz td{
+    color: white;
+}
+td{
+    color: black;
+}
+
+
+.cover{
+    background-color: white;
+    width: 100%;
+    height: 538px;
+}
+.imgcover{
+    width: 100%;
+    height: 538px;
+    
+}
+.content{
+    width:100% ;
+    height: 600px;
+    background-color: white;
+}
+.content1{
+    position: absolute;
+    margin-top: 35px;
+    left: 12%;
+    width: 663px;
+    height: 501px;
+    background-color: white;
+}
+.content2{
+    position: absolute;
+    margin-top: 35px;
+    left: 56%;
+    width: 500px;
+    height: 501px;
+    background-color: white;
+}
+.span-head{
+    position: absolute;
+    left: 1px;
+    margin-top: 15px;
+    width: 636px;
+    background-color: white;;
+
+}
+.span1{
+    font-size: 24px;
+}
+.cont1{
+    margin-top:50px ;
+    width:660px;
+    height:450px;
+    background-color: white;
+    
+}
+.cont1 button{
+    background-color: #014599;
+    border-color: #014599;
+    color: white;
+    border-radius: 4px;
+    width: 353px;
+    height: 32px;
+    font-size: 16px;
+}
+.cont1 p{
+    text-align: justify;
+    font-family: sans-serif;
+    line-height: 25px;
+}
+.span2{
+    font-size: 24px;
+    color: rgb(32, 32, 148);
+}
+.cont2head{
+    font-size: 30px;
+    position: absolute;
+    left: 23px;
+    margin-top: 11px;
+    color: #303197;
+}
+.cont2{
+    position: absolute;
+    margin-top: 53px;
+    left: 8%;
+    width: 441px;
+    height: 434px;
+    background-color: white;
+}
+.table1{
+   line-height: 34px;
+}
+.table1 img{
+    width: 78px;
+    height: 45px;
+}
+.cont2 button{
+    position: absolute;
+    background-color: white;
+    border: none;
+    left: 83%;
+    top: 81%;
+    font-size: 16px;
+}
+.department{
+    position: absolute;
+    margin-top: 536px;
+    background-color: white;
+    width: 100%;
+    height: 63px;
+}
+.department p{
+    position: absolute;
+    left: 44%;
+    margin-top: 12px;
+    justify-items: center;
+    color: rgb(58, 18, 167);
+    font-size: 33px;
+}
+
+.flex{
+    
+    display: flex;
+    position: absolute;
+    width: 100%;
+    height: 351px;
+    background-color: #447ba2;
+}
+.fimage{
+    margin-top: 5px;
+    width: 171px;
+    border-radius: 57px;
+    margin-left: 10px;
+}
+.branch{
+    text-align: center;
+    font-size: 16px;
+}
+
+.flex1{
+    background-color: white;
+    margin-top: 58px;
+    position: absolute;
+    left: 263px;
+    width:190px;
+    height:240px ;
+    border-bottom: 5px solid salmon;
+}
+.flex2{
+    background-color: white;
+    margin-top: 58px;
+    position: absolute;
+    left: 470px;
+    width:190px;
+    height:240px ;
+    border-bottom: 5px solid blue;
+}.flex3{
+    background-color: white;
+    margin-top: 58px;
+    position: absolute;
+    left: 676px;
+    width:190px;
+    height:240px ;
+    border-bottom: 5px solid rebeccapurple;
+}.flex4{
+    background-color: white;
+    margin-top: 58px;
+    position: absolute;
+    left: 885px;
+    width:190px;
+    height:240px ;
+    border-bottom: 5px solid hotpink;
+}.flex5{
+    background-color: white;
+    position: absolute;
+    left: 1094px;
+    margin-top: 58px;
+    width:190px;
+    height:240px ;
+    border-bottom: 5px solid magenta;
+}
+.seclst{
+    position: absolute;
+    margin-top: 351px;
+    width: 100%;
+    height: 300px;
+    background-color: white;
+}
+.sec{
+    
+    width: 100%;
+    height: 566px;
+    background-color: white;
+    
+}
+.sec1{
+    margin-top: 51px;
+    width: 565px;
+    height: 490px;
+    background-color: white;
+    position: absolute;
+    left: 187px;
+}
+.a{
+    font-size:32px ;
+    color: #303197;
+
+}
+.b{
+    text-align: justify;
+    font-size: 15px;
+    line-height: 22px;
+    margin-top: -23px;
+}
+.c{
+    text-align: justify;
+    font-size: 15px;
+    line-height: 22px;
+}
+.sec button{
+    background-color: #014599;
+    border: none;
+    border-radius: 5px;
+    color: white;
+    width: 105px;
+    height: 29px;
+    position: absolute;
+
+}
+
+.sec2{
+    
+    width: 500px;
+    height: 487px;
+    background-color: white;
+    position: absolute;
+    margin-top: 51px;
+    left: 52%;
+
+}
+.sec2 iframe{
+    margin-top: 23px;
+}
+.footer{
+    display: flex;
+    width: 100%;
+    height: 256px;
+    background-color: #447ba2;
+    margin-top: 925px;
+}
+.f1{
+    position: absolute;
+    left: 10%;
+    width: 150px;
+    height: 50px;
+
+}
+.f2{
+    position: absolute;
+    left: 30%;
+    width: 150px;
+    height: 50px;
+   
+}.f3{
+    position: absolute;
+    left: 60%;
+    width: 150px;
+    height: 50px;
+  
+}.f4{
+    position: absolute;
+    left: 80%;
+    width: 150px;
+    height: 50px;
+}
+.fh1{
+    font-size: 23px;
+    color: white;
+
+}
+.lis1{
+    width: 200px;
+    height: 210px;
+    position: absolute;
+    margin-top: 60px;
+    left: 189px;
+   
+}
+.lis2{
+    width: 180px;
+    height: 210px;
+    position: absolute;
+    margin-top: 60px;
+    left: 32%;
+   
+}
+.lis3{
+    width: 180px;
+    height: 210px;
+    position: absolute;
+    margin-top: 60px;
+    left: 47%;
+   
+}
+.lis4{
+    width: 170px;
+    height: 210px;
+    position: absolute;
+    margin-top: 57px;
+    left: 64%;
+  
+}
+.lis5{
+    width: 170px;
+    height: 210px;
+    position: absolute;
+    margin-top: 57px;
+    left: 74%;
+   
+}
+.pf{
+    font-size: 13px;
+    line-height: 13px;
+    color: white;
+}
